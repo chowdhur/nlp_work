@@ -23,6 +23,7 @@ the flower belongs to — call them "red" and "blue". You're given 8 flowers
 whose type you already know (the training data), and one mystery flower
 whose type you *don't* know:
 
+**Training Data:**
 | Length | Width | Type        |
 |--------|-------|-------------|
 | 3.0    | 1.5   | 🔴 red (1)   |
