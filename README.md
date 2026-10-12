@@ -1,7 +1,5 @@
 # Flowers — Teaching a Single Neuron to Tell Two Flowers Apart
 
-![Beginner intro to neural networks]
-
 This project is the "hello world" of neural networks. There's no deep learning
 library, no GPU, no 50-layer architecture — just plain Python, `numpy`, and
 about 40 lines of math. The goal is to understand, from first principles,
