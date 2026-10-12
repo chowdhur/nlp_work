@@ -1,4 +1,4 @@
-# Flowers 🌸 — Teaching a Single Neuron to Tell Two Flowers Apart
+# Flowers — Teaching a Single Neuron to Tell Two Flowers Apart
 
 ![Beginner intro to neural networks]
 
