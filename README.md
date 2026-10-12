@@ -33,6 +33,10 @@ whose type you *don't* know:
 | 2.0    | 0.5   | 🔵 blue (0)  |
 | 5.5    | 1.0   | 🔴 red (1)   |
 | 1.0    | 1.0   | 🔵 blue (0)  |
+
+**Test Data:**
+| Length | Width | Type        |
+|--------|-------|-------------|
 | **4.5**| **1.0**| ❓ **mystery flower** |
 | **2.0**| **1.5**| ❓ **mystery flower** |
 
